@@ -6,7 +6,7 @@ Example repository to create an environment with course materials in R.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plasmabio/template-r/master?urlpath=%2Flab/) Jupyter + R kernel
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plasmabio/template-r/master?urlpath=rstudio) RStudio
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kirsho/template-r/master?urlpath=rstudio) RStudio
 
 
 ## Structure of the repo
