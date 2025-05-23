@@ -20,7 +20,7 @@ dependencies:
   - jupyter-archive
   # R environment
   - r-irkernel
-  - r-base>=4
+  - r-base>=4.4
   - r-tidyverse
   # JupyterLab Variable inspector
   # https://github.com/lckr/jupyterlab-variableInspector
