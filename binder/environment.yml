@@ -3,7 +3,6 @@ name: plasmabio-template-r
 # see https://bioconda.github.io/
 # conda-forge has highest priority
 channels:
-  - defaults
   - bioconda
   - conda-forge
 dependencies:
